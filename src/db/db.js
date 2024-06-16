@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 import { DB_NAME } from "../constant.js"; 
 
-// const uri = "mongodb+srv://jaydhiman01:jay123@cluster0.zdo7eny.mongodb.net"
+
 
 const connectDB = async () => {
     try {
